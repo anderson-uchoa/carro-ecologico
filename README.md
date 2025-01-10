@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Projeto criado para fins didáticos na disciplina de **Programação Orientada a Objetos** da Universidade Federal do Ceará (UFC), com o objetivo de ensinar princípios como encapsulamento, herança, polimorfismo e abstração por meio de um exemplo prático. Esse projeto é uma versão customizada e adaptada para Python do material didático do Prof. Bruno Góis da UFC-Quixadá.
+Projeto criado para fins didáticos na disciplina de **Programação Orientada a Objetos** do Campus de Itapajé da Universidade Federal do Ceará (UFC), com o objetivo de ensinar princípios como encapsulamento, herança, polimorfismo e abstração por meio de um exemplo prático. Esse projeto é uma versão customizada e adaptada para Python do material didático do Prof. Bruno Góis da UFC-Quixadá.
 
 ## Estrutura do Repositório
 
